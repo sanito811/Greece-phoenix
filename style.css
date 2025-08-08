@@ -7,7 +7,7 @@
 body{
     /* background-color: rgba(105, 64, 64, 0.671); */
     font-family: 'Times New Roman', Times, serif;
-    background-image:url("/file/ggmm.jpeg") ;
+    background-image:url("file/ggmm.jpeg") ;
     /* position: fixed; */
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body{
 }
 
 .effect{
-    background-image: url("/file/image\ 1lab.jpg");
+    background-image: url("file/image\ 1lab.jpg");
     /* background-position:left; */
     background-repeat: no-repeat;
     background-size: cover;
